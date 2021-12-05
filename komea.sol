@@ -1,4 +1,8 @@
 /**
+ *Submitted for verification at BscScan.com on 2021-12-05
+*/
+
+/**
    
 KOMEA is made for the following purposes
 - NFT
