@@ -2,9 +2,9 @@
 KOMEA is a multiproject token currently works on Binance smart chain
 $KOMEA
 
-Telegram group : https://t.me/KomeaCommunity 
-Twitter : https://twitter.com/KomeaDapps 
-Contract : 0xa2dad46731bdb4ba9638ebb7a7e0e3021619556a
+    Telegram group : https://t.me/KomeaCommunity 
+    Twitter : https://twitter.com/KomeaDapps 
+    Contract : 0xa2dad46731bdb4ba9638ebb7a7e0e3021619556a
 
 KOMEA is made for the following purposes
 
